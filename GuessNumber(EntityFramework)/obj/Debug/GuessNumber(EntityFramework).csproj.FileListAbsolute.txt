@@ -1,0 +1,10 @@
+c:\users\kunio-kun\documents\visual studio 2015\Projects\GuessNumber(EntityFramework)\GuessNumber(EntityFramework)\bin\Debug\GuessNumber(EntityFramework).exe.config
+c:\users\kunio-kun\documents\visual studio 2015\Projects\GuessNumber(EntityFramework)\GuessNumber(EntityFramework)\bin\Debug\GuessNumber(EntityFramework).exe
+c:\users\kunio-kun\documents\visual studio 2015\Projects\GuessNumber(EntityFramework)\GuessNumber(EntityFramework)\bin\Debug\GuessNumber(EntityFramework).pdb
+c:\users\kunio-kun\documents\visual studio 2015\Projects\GuessNumber(EntityFramework)\GuessNumber(EntityFramework)\bin\Debug\EntityFramework.dll
+c:\users\kunio-kun\documents\visual studio 2015\Projects\GuessNumber(EntityFramework)\GuessNumber(EntityFramework)\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kunio-kun\documents\visual studio 2015\Projects\GuessNumber(EntityFramework)\GuessNumber(EntityFramework)\bin\Debug\EntityFramework.xml
+c:\users\kunio-kun\documents\visual studio 2015\Projects\GuessNumber(EntityFramework)\GuessNumber(EntityFramework)\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kunio-kun\documents\visual studio 2015\Projects\GuessNumber(EntityFramework)\GuessNumber(EntityFramework)\obj\Debug\GuessNumber(EntityFramework).csprojResolveAssemblyReference.cache
+c:\users\kunio-kun\documents\visual studio 2015\Projects\GuessNumber(EntityFramework)\GuessNumber(EntityFramework)\obj\Debug\GuessNumber(EntityFramework).exe
+c:\users\kunio-kun\documents\visual studio 2015\Projects\GuessNumber(EntityFramework)\GuessNumber(EntityFramework)\obj\Debug\GuessNumber(EntityFramework).pdb
